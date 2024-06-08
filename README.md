@@ -9,4 +9,4 @@ JulyPixelEngine/JulyPixelEngine is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Inyeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/JulyPixelEngine/github-readme-stats)
+[![Inyeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulyPixelEngine)](https://github.com/JulyPixelEngine/github-readme-stats)
